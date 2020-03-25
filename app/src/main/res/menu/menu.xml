@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/limpiar_campos"
+        android:title="Limpiar campos"/>
+
+    <item
+        android:id="@+id/ver_contactos"
+        android:title="Ver contactos"/>
+</menu>

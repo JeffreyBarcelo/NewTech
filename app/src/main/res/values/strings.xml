@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaContactos</string>
+
+    <string-array name="seleccion">
+
+        <item>Familia</item>
+        <item>Trabajo</item>
+        <item>Amigo</item>
+        <item>Ocasional</item>
+    </string-array>
+</resources>
